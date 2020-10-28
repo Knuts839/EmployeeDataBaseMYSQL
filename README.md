@@ -1,2 +1,2 @@
 # EmployeeDataBaseMYSQL
-EmployeeDataBaseMYSQL
+The purpose of this application is to provide the user the ability to manage employee data. This is a command line application, which uses node js., inquirer, and mysql. Upon launching the application a connection with the mysql database is opened. The user interacts with the database through inquirer prompts in the command window. The user can add employees, departments, and roles to the database as well as delete them. Finally, when the user is through the user may click quit and close the inquirer command line application.
